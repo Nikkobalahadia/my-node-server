@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   const htmlResponse = `
     <div style="font-family: sans-serif; text-align: center; padding-top: 50px;">
         <h1>Student Name: Nikko Balahadia</h1>
-        <h2>Class Section: Bachelor of Science in Information Technology Major in Business Analytics</h2>
+        <h2>Program: Bachelor of Science in Information Technology Major in Business Analytics</h2>
         <p style="font-style: italic; font-size: 1.2em; margin-top: 20px;">
             "The only way to do great work is to love what you do." - Steve Jobs
         </p>
